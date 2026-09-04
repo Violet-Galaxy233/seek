@@ -1,0 +1,68 @@
+{
+  "albums": [
+    {
+      "id": "album-scattered-shoes",
+      "title": "散らばった靴",
+      "artist": "テストバンド A",
+      "language": "ja",
+      "first_release_year": 2021,
+      "release": {
+        "id": "release-scattered-shoes",
+        "release_date": "2021-04-14",
+        "country": "JP",
+        "cover": {
+          "id": "cover-scattered-shoes",
+          "filename": "scattered-shoes.png"
+        }
+      }
+    },
+    {
+      "id": "album-blue-moon",
+      "title": "青い月",
+      "artist": "テストバンド B",
+      "language": "ja",
+      "first_release_year": 2018,
+      "release": {
+        "id": "release-blue-moon",
+        "release_date": "2018-09-05",
+        "country": "JP",
+        "cover": {
+          "id": "cover-blue-moon",
+          "filename": "blue-moon.png"
+        }
+      }
+    },
+    {
+      "id": "album-white-flowers",
+      "title": "白い花",
+      "artist": "テストバンド C",
+      "language": "ja",
+      "first_release_year": 2020,
+      "release": {
+        "id": "release-white-flowers",
+        "release_date": "2020-05-20",
+        "country": "JP",
+        "cover": {
+          "id": "cover-white-flowers",
+          "filename": "white-flowers.png"
+        }
+      }
+    },
+    {
+      "id": "album-concrete-building",
+      "title": "夕暮れの窓",
+      "artist": "テストバンド D",
+      "language": "ja",
+      "first_release_year": 2023,
+      "release": {
+        "id": "release-concrete-building",
+        "release_date": "2023-11-08",
+        "country": "JP",
+        "cover": {
+          "id": "cover-concrete-building",
+          "filename": "concrete-building.png"
+        }
+      }
+    }
+  ]
+}

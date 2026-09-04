@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+*.py[cod]
+
+# 后续真实适配器产生的本地资产
+models/
+indexes/
+data/
